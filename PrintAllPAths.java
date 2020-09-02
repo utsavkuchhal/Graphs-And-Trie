@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+//  In this solution edge is vertice and vertice is edge Sorry, My mistake
 public class Practise7 {
 
 	static class Edge {
