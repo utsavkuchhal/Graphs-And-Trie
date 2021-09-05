@@ -80,7 +80,7 @@ public class BridgesInGraph {
 					System.out.println(i + " " + start);
 				}
 			} else {
-				low[start] = Math.min(low[start], low[i]);
+				low[start] = Math.min(low[start], tim[i]);
 
 			}
 
